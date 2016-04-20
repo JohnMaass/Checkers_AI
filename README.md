@@ -19,4 +19,4 @@ only 3 or 4 piece on the board.
 To run this program import the project from the pom.xml into netbeans 8.1 and run com.checkers.game.gui.Checkers_Gui.  
 A new game can be created by selecting the new game menu option in the File menu.  You can choose from human, random(chooses 
 moves randomly) or AI players and which color goes first.  The moves for each color are select in two different jLists.  When 
-a move is selected it is highlighted on the board.
+a move is selected it is highlighted on the board.  Any move can be undone using the undue menu option under the Edit menu.
